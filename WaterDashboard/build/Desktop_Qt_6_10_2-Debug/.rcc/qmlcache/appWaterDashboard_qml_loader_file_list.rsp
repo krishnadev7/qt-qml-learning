@@ -1,0 +1,11 @@
+--resource
+/home/krish/Documents/E-bhoom/Qt/WaterDashboard/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/qmake_WaterDashboard.qrc
+--resource
+/home/krish/Documents/E-bhoom/Qt/WaterDashboard/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/appWaterDashboard_raw_qml_0.qrc
+/WaterDashboard/qml/Main.qml
+/WaterDashboard/qml/Dashboard.qml
+/WaterDashboard/qml/components/Pipe.qml
+/WaterDashboard/qml/components/Tank.qml
+/WaterDashboard/qml/components/StatusCard.qml
+/WaterDashboard/qml/components/SymbolPump.qml
+/WaterDashboard/qml/components/SymbolValve.qml

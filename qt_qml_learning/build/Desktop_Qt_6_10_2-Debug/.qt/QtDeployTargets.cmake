@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appqt_qml_learning_FILE /home/krish/Documents/E-bhoom/Qt/qt_qml_learning/build/Desktop_Qt_6_10_2-Debug/appqt_qml_learning)
+set(__QT_DEPLOY_TARGET_appqt_qml_learning_TYPE EXECUTABLE)

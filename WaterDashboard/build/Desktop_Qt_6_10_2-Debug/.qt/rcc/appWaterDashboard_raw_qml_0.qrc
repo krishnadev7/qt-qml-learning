@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/WaterDashboard/">
+    <file alias="qml/Main.qml">/home/krish/Documents/E-bhoom/Qt/WaterDashboard/qml/Main.qml</file>
+    <file alias="qml/Dashboard.qml">/home/krish/Documents/E-bhoom/Qt/WaterDashboard/qml/Dashboard.qml</file>
+    <file alias="qml/components/Pipe.qml">/home/krish/Documents/E-bhoom/Qt/WaterDashboard/qml/components/Pipe.qml</file>
+    <file alias="qml/components/Tank.qml">/home/krish/Documents/E-bhoom/Qt/WaterDashboard/qml/components/Tank.qml</file>
+    <file alias="qml/components/StatusCard.qml">/home/krish/Documents/E-bhoom/Qt/WaterDashboard/qml/components/StatusCard.qml</file>
+    <file alias="qml/components/SymbolPump.qml">/home/krish/Documents/E-bhoom/Qt/WaterDashboard/qml/components/SymbolPump.qml</file>
+    <file alias="qml/components/SymbolValve.qml">/home/krish/Documents/E-bhoom/Qt/WaterDashboard/qml/components/SymbolValve.qml</file>
+  </qresource>
+</RCC>
+

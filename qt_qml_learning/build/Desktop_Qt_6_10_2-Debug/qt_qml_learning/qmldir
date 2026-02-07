@@ -1,0 +1,8 @@
+module qt_qml_learning
+typeinfo appqt_qml_learning.qmltypes
+prefer :/qt/qml/qt_qml_learning/
+Main 254.0 Main.qml
+StatusTile 254.0 StatusTile.qml
+Pipe 254.0 Pipe.qml
+depends QtQuick
+

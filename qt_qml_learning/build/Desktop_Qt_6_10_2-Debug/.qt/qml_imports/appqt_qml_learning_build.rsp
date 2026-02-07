@@ -1,0 +1,14 @@
+-rootPath
+/home/krish/Documents/E-bhoom/Qt/qt_qml_learning
+-cmake-output
+-output-file
+/home/krish/Documents/E-bhoom/Qt/qt_qml_learning/build/Desktop_Qt_6_10_2-Debug/.qt/qml_imports/appqt_qml_learning_build.cmake
+-importPath
+/home/krish/Documents/E-bhoom/Qt/qt_qml_learning/build/Desktop_Qt_6_10_2-Debug
+-importPath
+/home/krish/Documents/E-bhoom/Qt/qt_qml_learning/build/Desktop_Qt_6_10_2-Debug/qt_qml_learning
+-importPath
+/home/krish/Qt/6.10.2/gcc_64/qml
+-qrcFiles
+/home/krish/Documents/E-bhoom/Qt/qt_qml_learning/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/qmake_qt_qml_learning.qrc
+/home/krish/Documents/E-bhoom/Qt/qt_qml_learning/build/Desktop_Qt_6_10_2-Debug/.qt/rcc/appqt_qml_learning_raw_qml_0.qrc

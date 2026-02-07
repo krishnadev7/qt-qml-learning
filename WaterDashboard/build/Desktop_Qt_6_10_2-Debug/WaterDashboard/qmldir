@@ -1,0 +1,12 @@
+module WaterDashboard
+typeinfo appWaterDashboard.qmltypes
+prefer :/WaterDashboard/
+Main 1.0 qml/Main.qml
+Dashboard 1.0 qml/Dashboard.qml
+Pipe 1.0 qml/components/Pipe.qml
+Tank 1.0 qml/components/Tank.qml
+StatusCard 1.0 qml/components/StatusCard.qml
+SymbolPump 1.0 qml/components/SymbolPump.qml
+SymbolValve 1.0 qml/components/SymbolValve.qml
+depends QtQuick
+

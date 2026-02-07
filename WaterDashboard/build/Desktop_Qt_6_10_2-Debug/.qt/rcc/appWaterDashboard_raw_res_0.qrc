@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/WaterDashboard/">
+    <file alias="qml.qrc">/home/krish/Documents/E-bhoom/Qt/WaterDashboard/qml.qrc</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/qt_qml_learning/">
+    <file alias="Main.qml">/home/krish/Documents/E-bhoom/Qt/qt_qml_learning/Main.qml</file>
+    <file alias="StatusTile.qml">/home/krish/Documents/E-bhoom/Qt/qt_qml_learning/StatusTile.qml</file>
+    <file alias="Pipe.qml">/home/krish/Documents/E-bhoom/Qt/qt_qml_learning/Pipe.qml</file>
+  </qresource>
+</RCC>
+

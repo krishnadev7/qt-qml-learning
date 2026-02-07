@@ -1,0 +1,15 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                    ],
+                    "filePath": "/home/krish/Documents/E-bhoom/Qt/qt_qml_learning/Pipe.qml"
+                }
+            ],
+            "moduleId": "qt_qml_learning(appqt_qml_learning)"
+        }
+    ]
+}

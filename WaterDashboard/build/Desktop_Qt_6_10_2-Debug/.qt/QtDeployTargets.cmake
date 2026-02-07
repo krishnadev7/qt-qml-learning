@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appWaterDashboard_FILE /home/krish/Documents/E-bhoom/Qt/WaterDashboard/build/Desktop_Qt_6_10_2-Debug/appWaterDashboard)
+set(__QT_DEPLOY_TARGET_appWaterDashboard_TYPE EXECUTABLE)
