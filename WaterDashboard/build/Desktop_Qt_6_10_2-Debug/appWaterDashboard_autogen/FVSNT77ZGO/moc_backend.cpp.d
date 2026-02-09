@@ -1,6 +1,7 @@
 /home/krish/Documents/E-bhoom/Qt/WaterDashboard/build/Desktop_Qt_6_10_2-Debug/appWaterDashboard_autogen/FVSNT77ZGO/moc_backend.cpp: /home/krish/Documents/E-bhoom/Qt/WaterDashboard/backend/backend.h \
   /home/krish/Documents/E-bhoom/Qt/WaterDashboard/build/Desktop_Qt_6_10_2-Debug/appWaterDashboard_autogen/moc_predefs.h \
   /home/krish/Qt/6.10.2/gcc_64/include/QtCore/QObject \
+  /home/krish/Qt/6.10.2/gcc_64/include/QtCore/QStringList \
   /home/krish/Qt/6.10.2/gcc_64/include/QtCore/q17memory.h \
   /home/krish/Qt/6.10.2/gcc_64/include/QtCore/q20functional.h \
   /home/krish/Qt/6.10.2/gcc_64/include/QtCore/q20memory.h \

@@ -974,9 +974,9 @@
 	"HEADERS" : 
 	[
 		[
-			"/home/krish/Documents/E-bhoom/Qt/WaterDashboard/backend/backend.h",
+			"/home/krish/Documents/E-bhoom/Qt/WaterDashboard/backend/plantcontroller.h",
 			"MU",
-			"FVSNT77ZGO/moc_backend.cpp",
+			"FVSNT77ZGO/moc_plantcontroller.cpp",
 			null
 		]
 	],
@@ -1067,7 +1067,7 @@
 	"SOURCES" : 
 	[
 		[
-			"/home/krish/Documents/E-bhoom/Qt/WaterDashboard/backend/backend.cpp",
+			"/home/krish/Documents/E-bhoom/Qt/WaterDashboard/backend/plantcontroller.cpp",
 			"MU",
 			null
 		],

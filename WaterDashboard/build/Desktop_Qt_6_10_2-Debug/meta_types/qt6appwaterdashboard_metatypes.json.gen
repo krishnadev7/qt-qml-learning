@@ -3,7 +3,21 @@
         "classes": [
             {
                 "className": "Backend",
-                "lineNumber": 6,
+                "enums": [
+                    {
+                        "isClass": false,
+                        "isFlag": false,
+                        "lineNumber": 12,
+                        "name": "Mode",
+                        "values": [
+                            "Auto",
+                            "Manual",
+                            "Backwash",
+                            "Cip"
+                        ]
+                    }
+                ],
+                "lineNumber": 7,
                 "object": true,
                 "properties": [
                     {
@@ -11,14 +25,74 @@
                         "designable": true,
                         "final": false,
                         "index": 0,
-                        "lineNumber": 9,
-                        "name": "pressure",
-                        "notify": "pressureChanged",
-                        "read": "pressure",
+                        "lineNumber": 15,
+                        "name": "tankLevel",
+                        "notify": "tankLevelChanged",
+                        "read": "tankLevel",
                         "required": false,
                         "scriptable": true,
                         "stored": true,
                         "type": "double",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "lineNumber": 16,
+                        "name": "feedFlow",
+                        "notify": "feedFlowChanged",
+                        "read": "feedFlow",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "double",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 2,
+                        "lineNumber": 17,
+                        "name": "permeateFlow",
+                        "notify": "permeateFlowChanged",
+                        "read": "permeateFlow",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "double",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 3,
+                        "lineNumber": 18,
+                        "name": "mode",
+                        "notify": "modeChanged",
+                        "read": "mode",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "Mode",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 4,
+                        "lineNumber": 20,
+                        "name": "activeAlarms",
+                        "notify": "alarmsChanged",
+                        "read": "activeAlarms",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QStringList",
                         "user": false
                     }
                 ],
@@ -27,17 +101,66 @@
                     {
                         "access": "public",
                         "index": 0,
-                        "lineNumber": 20,
-                        "name": "pressureChanged",
+                        "lineNumber": 39,
+                        "name": "tankLevelChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "lineNumber": 40,
+                        "name": "feedFlowChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "lineNumber": 41,
+                        "name": "permeateFlowChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 3,
+                        "lineNumber": 42,
+                        "name": "modeChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 4,
+                        "lineNumber": 43,
+                        "name": "alarmsChanged",
                         "returnType": "void"
                     }
                 ],
                 "slots": [
                     {
                         "access": "public",
-                        "index": 1,
-                        "lineNumber": 17,
-                        "name": "updatePressure",
+                        "index": 5,
+                        "lineNumber": 33,
+                        "name": "requestAuto",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 6,
+                        "lineNumber": 34,
+                        "name": "requestManual",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 7,
+                        "lineNumber": 35,
+                        "name": "requestBackwash",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 8,
+                        "lineNumber": 36,
+                        "name": "requestCip",
                         "returnType": "void"
                     }
                 ],

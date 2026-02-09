@@ -10,7 +10,7 @@
                             "column": 23,
                             "durationMicroseconds": 0,
                             "functionName": "fill",
-                            "line": 10,
+                            "line": 11,
                             "message": ""
                         },
                         {
@@ -18,7 +18,7 @@
                             "column": 23,
                             "durationMicroseconds": 0,
                             "functionName": "fill",
-                            "line": 15,
+                            "line": 16,
                             "message": ""
                         },
                         {
@@ -26,7 +26,7 @@
                             "column": 31,
                             "durationMicroseconds": 0,
                             "functionName": "fill",
-                            "line": 27,
+                            "line": 28,
                             "message": ""
                         },
                         {
@@ -34,23 +34,23 @@
                             "column": 28,
                             "durationMicroseconds": 0,
                             "functionName": "model",
-                            "line": 42,
-                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                            "line": 43,
+                            "message": "Cannot access value for name Backend"
                         },
                         {
                             "codegenResult": 2,
                             "column": 32,
                             "durationMicroseconds": 0,
                             "functionName": "color",
-                            "line": 46,
-                            "message": "Cannot access value for name index"
+                            "line": 55,
+                            "message": "Cannot access value for name backend"
                         },
                         {
                             "codegenResult": 2,
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "text",
-                            "line": 50,
+                            "line": 59,
                             "message": "Cannot access value for name modelData"
                         },
                         {
@@ -58,40 +58,120 @@
                             "column": 47,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 49,
+                            "line": 58,
                             "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "cursorShape",
+                            "line": 67,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 1000,
+                            "functionName": "onClicked",
+                            "line": 68,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 66,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 86,
+                            "message": "Cannot access value for name backend"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 85,
+                            "message": "Cannot access value for name backend"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 91,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 103,
+                            "message": "Cannot access value for name backend"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 0,
+                            "functionName": "elide",
+                            "line": 106,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 111,
+                            "message": "Cannot access value for name backend"
                         },
                         {
                             "codegenResult": 0,
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "fill",
-                            "line": 73,
+                            "line": 133,
                             "message": ""
                         },
                         {
-                            "codegenResult": 0,
-                            "column": 34,
+                            "codegenResult": 2,
+                            "column": 65,
                             "durationMicroseconds": 0,
-                            "functionName": "onTriggered",
-                            "line": 116,
-                            "message": ""
+                            "functionName": "value",
+                            "line": 151,
+                            "message": "Cannot access value for name backend"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 65,
+                            "durationMicroseconds": 0,
+                            "functionName": "value",
+                            "line": 152,
+                            "message": "Cannot access value for name backend"
                         },
                         {
                             "codegenResult": 0,
                             "column": 35,
                             "durationMicroseconds": 0,
                             "functionName": "fill",
-                            "line": 124,
+                            "line": 169,
                             "message": ""
                         },
                         {
-                            "codegenResult": 0,
+                            "codegenResult": 2,
                             "column": 32,
                             "durationMicroseconds": 0,
                             "functionName": "level",
-                            "line": 136,
-                            "message": ""
+                            "line": 181,
+                            "message": "Cannot access value for name backend"
                         }
                     ],
                     "filePath": "/home/krish/Documents/E-bhoom/Qt/WaterDashboard/qml/Dashboard.qml"

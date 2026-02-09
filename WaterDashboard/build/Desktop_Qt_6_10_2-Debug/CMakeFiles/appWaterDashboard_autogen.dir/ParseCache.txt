@@ -6,6 +6,7 @@
  mdp:/home/krish/Documents/E-bhoom/Qt/WaterDashboard/backend/backend.h
  mdp:/home/krish/Documents/E-bhoom/Qt/WaterDashboard/build/Desktop_Qt_6_10_2-Debug/appWaterDashboard_autogen/moc_predefs.h
  mdp:/home/krish/Qt/6.10.2/gcc_64/include/QtCore/QObject
+ mdp:/home/krish/Qt/6.10.2/gcc_64/include/QtCore/QStringList
  mdp:/home/krish/Qt/6.10.2/gcc_64/include/QtCore/q17memory.h
  mdp:/home/krish/Qt/6.10.2/gcc_64/include/QtCore/q20functional.h
  mdp:/home/krish/Qt/6.10.2/gcc_64/include/QtCore/q20memory.h

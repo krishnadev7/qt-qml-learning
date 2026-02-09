@@ -11,8 +11,8 @@ qt_standard_project_setup()
 
 qt_add_executable(appWaterDashboard
     main.cpp
-    backend/backend.cpp
-    backend/backend.h
+    backend/plantcontroller.cpp
+    backend/plantcontroller.h
 )
 
 qt_add_qml_module(appWaterDashboard
@@ -26,8 +26,9 @@ qt_add_qml_module(appWaterDashboard
         QML_FILES qml/components/StatusCard.qml
         QML_FILES qml/components/SymbolPump.qml
         QML_FILES qml/components/SymbolValve.qml
+        SOURCES backend/plantcontroller.h backend/plantcontroller.cpp
 )
 
 target_link_libraries(appWaterDashboard
-    PRIVATE Qt6::Quick
+    PRIVATE Qt6::Quick Qt6::StateMachine
 )
